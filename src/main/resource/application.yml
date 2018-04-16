@@ -1,0 +1,29 @@
+server:
+  port: 8090
+  context-path: /
+#spring:
+#  datasource:
+#    driver-class-name: com.mysql.jdbc.Driver
+#    url: jdbc:mysql://176.20.94.63:3306/ltyp
+#    url: jdbc:mysql://localhost:3306/ltyp
+#    username: root
+#    password: ltl950119
+#  mvc:
+#    view:
+#      prefix: /WEB-INF/
+#      suffix: .jsp
+#  redis:
+#    host: 192.168.10.128
+#    port: 6379
+#    pool:
+#      max-active: -1
+#      max-wait: -1
+#      max-idle: 0
+#      min-idle: 0
+#    timeout: 0
+#    password:
+#mybatis:
+#  config-location: classpath:/mybatis/mybatis-config.xml
+##  cn.vworld.mapper-locations: classpath:/mybatis/mappers/*.xml
+#  type-aliases-package: cn.vworld.bean
+#  mapper-locations: classpath:/mybatis/mappers/*.xml
