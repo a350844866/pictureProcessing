@@ -38,6 +38,9 @@
           <element id="library" level="project" name="Maven: org.apache.tomcat.embed:tomcat-embed-core:8.5.20" />
           <element id="library" level="project" name="Maven: org.apache.tomcat.embed:tomcat-embed-el:8.5.20" />
           <element id="library" level="project" name="Maven: org.apache.tomcat.embed:tomcat-embed-websocket:8.5.20" />
+          <element id="library" level="project" name="Maven: javax.servlet:jstl:1.2" />
+          <element id="library" level="project" name="Maven: org.apache.tomcat.embed:tomcat-embed-jasper:8.5.20" />
+          <element id="library" level="project" name="Maven: org.eclipse.jdt:ecj:3.12.3" />
         </element>
       </element>
       <element id="directory" name="META-INF">
